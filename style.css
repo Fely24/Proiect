@@ -133,7 +133,7 @@ header{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("D:\proiect javascript_html_css\background.jpg");
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
